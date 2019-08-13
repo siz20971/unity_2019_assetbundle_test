@@ -31,4 +31,5 @@ bundle builded in Unity 2019.1
 In Unity 2019, VideoPlayer can't play VideoClip in Assetbundle that contains 1 video clip.
 
 This project linked in Unity forum
+
 https://forum.unity.com/threads/assetbundle-with-single-videoclip-is-not-working-and-occur-error.726875/
