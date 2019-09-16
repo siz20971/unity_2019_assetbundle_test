@@ -1,3 +1,5 @@
+# This issue fixed in 2019.2.5
+
 # Unity 2019 AssetBundle issue test project
 
 AssetBundle with 1 video clips CAN NOT play on Unity 2019.
